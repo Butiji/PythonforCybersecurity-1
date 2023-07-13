@@ -3,8 +3,8 @@
 # By 
 
 
-Question = input("Is today a good day?")
-if Question == ("yes")
+input("Is today a good day?")
+("yes")
 print("Yes it is")
 
 
