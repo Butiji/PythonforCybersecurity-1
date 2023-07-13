@@ -7,4 +7,6 @@ input("Is today a good day?")
 ("yes")
 print("Yes it is")
 
-
+for _ in range(1, 10):
+    print("Yeah it is")
+ 
