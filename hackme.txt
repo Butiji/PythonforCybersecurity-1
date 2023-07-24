@@ -1,0 +1,5 @@
+Name =Butiji
+color = pink
+Pet's Name = none
+Mother's Maiden Name = Justina
+Name of Elementary School = GBHS Bali
